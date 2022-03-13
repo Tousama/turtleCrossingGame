@@ -1,4 +1,4 @@
-#TurtleCrossingGame
+# TurtleCrossingGame
 <hr>
 <ol>
     <li>
@@ -16,7 +16,7 @@
 </ol>
 <hr>
 
-##Oyun içi görüntüler
+## Oyun içi görüntüler
 <br>
 
 ### Başlangıç
